@@ -6,6 +6,6 @@ helloWorld();
 
 
 function sayHello(name) {
-    return "Hello, " + name;
+    return "Hello, Jane!";
 }
-sayHello("Boryana");
+sayHello();
